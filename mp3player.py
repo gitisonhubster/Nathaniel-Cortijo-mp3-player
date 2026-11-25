@@ -1,4 +1,5 @@
 import pygame
+import tkinter as tk
 pygame.mixer.init()
 pygame.display.init()
 pygame.display.set_mode(size=(400, 800))
